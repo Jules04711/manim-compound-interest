@@ -21,6 +21,10 @@ When run, the animation will show:
 4. Year-by-year calculations showing exactly how the compounding works
 5. Final formula application and key takeaways
 
+
+https://github.com/user-attachments/assets/29538af1-6e57-475c-b785-9a8c8c9dac63
+
+
 ## Requirements
 
 - Python 3.7+
